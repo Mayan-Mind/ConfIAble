@@ -7,7 +7,7 @@ authors:
   - family-names: Palacios
     given-names: Servio
     affiliation: "Mayan Mind, LLC"
-    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"
+    orcid: "https://orcid.org/0000-0002-5009-096X"
 
 preferred-citation:
   type: article
@@ -17,7 +17,6 @@ preferred-citation:
   title: "ConfIAble: Confidential AI Framework"
   year: 2025
   journal: "Mayan Mind Research"
-  doi: "10.1234/confIAble.2025"   # <-- replace with real DOI if published
   url: "https://github.com/mayanmind/ConfIAble"
 
 repository-code: "https://github.com/mayanmind/ConfIAble"
