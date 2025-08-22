@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "ConfIAble"
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Palacios
+    given-names: Servio
+    affiliation: "Mayan Mind, LLC"
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Palacios
+      given-names: Servio
+  title: "ConfIAble: Confidential AI Framework"
+  year: 2025
+  journal: "Mayan Mind Research"
+  doi: "10.1234/confIAble.2025"   # <-- replace with real DOI if published
+  url: "https://github.com/mayanmind/ConfIAble"
+
+repository-code: "https://github.com/mayanmind/ConfIAble"
+license: "MIT with Attribution"
+version: "1.0.0"
+date-released: 2025-08-22
+
+abstract: >
+  ConfIAble is an open-source framework by Mayan Mind, LLC 
+  focused on confidential AI, secure computation, and trustworthy 
+  distributed systems. If you use ConfIAble in research, please cite 
+  and acknowledge the authors.
+
+# Spanish version
+notes:
+  - "Si utiliza este software en investigación, por favor cítelo de la siguiente manera:"
+  - "Palacios, S. (2025). ConfIAble: Marco de IA Confidencial. Mayan Mind, LLC. Disponible en https://github.com/mayanmind/ConfIAble"
